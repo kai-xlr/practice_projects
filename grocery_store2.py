@@ -1,3 +1,12 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Filename: grocery_store2.py
+Author: kai-xlr
+Date: 2025-03-26
+Description: Simple port of grocery_store2.c
+"""
+
 apple_quantity = 23
 apple_price = 1.49
 apple_review = int((823 + 52) / 10)
