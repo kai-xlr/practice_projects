@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kai-xlr/Development/workspace/practice_projects/grocery_store_2'
+relocations:     []
+...
